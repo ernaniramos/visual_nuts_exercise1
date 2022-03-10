@@ -1,0 +1,4 @@
+app:
+  config:
+    startRange: 1
+    endRange: 100
